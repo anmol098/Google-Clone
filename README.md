@@ -1,4 +1,9 @@
-# clone
+# Google Clone
+
+This project is built using VueJs and Bluma as a styling Css framework
+this is the first project of 15 Days of development sprints to master UI and CSS components of Vue.Js
+
+[#15Days_days_of_development]()
 
 ## Project setup
 ```
