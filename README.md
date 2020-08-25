@@ -3,7 +3,15 @@
 This project is built using VueJs and Bluma as a styling Css framework
 this is the first project of 15 Days of development sprints to master UI and CSS components of Vue.Js
 
+Topics revised VUEjs project setup on vue3
+Bulma CSS basic
+
+
 [#15Days_days_of_development]()
+
+# Screenshot
+
+![google-clone-smoky vercel app-1366x768](https://user-images.githubusercontent.com/15426564/91179540-42832d80-e704-11ea-8a36-4eb4702c01ce.png)
 
 ## Project setup
 ```
